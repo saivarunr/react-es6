@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/hello.js"],"names":["Hello","alert"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;QAAqBA,K;;;;;;;oCACT;AACJC,sBAAM,WAAN;AACH;;;;;;sBAHgBD,K","file":"hello.js","sourcesContent":["export default class Hello {\n    world() {\n        alert('Hello ES6');\n    }\n}\n"]}
